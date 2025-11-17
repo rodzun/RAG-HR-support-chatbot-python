@@ -31,7 +31,7 @@ llm = ChatOpenAI(
 # Load vectorstore
 vectorstore = FAISS.load_local("faiss_index", embeddings, allow_dangerous_deserialization=True)
 
-# Retriever sin threshold (k-NN puro con top 5)
+# Retriever (k-NN top 5)
 retriever = vectorstore.as_retriever(
     search_type="similarity",
     search_kwargs={"k": 5},
@@ -70,7 +70,6 @@ Score (0-10):
 Reason: """
 EVAL_PROMPT = PromptTemplate.from_template(eval_prompt_template)
 
-# Evaluator runnable (fix: ahora definido aquí)
 eval_runnable = EVAL_PROMPT | llm
 
 def query_rag(question, evaluate=False):
@@ -127,10 +126,6 @@ if __name__ == "__main__":
     
     os.makedirs("outputs", exist_ok=True)
     
-    log_path = "outputs/query_log.txt"
-    with open(log_path, "a") as log_file:
-        log_file.write(printed_output + "\n\n---\n\n")
-    
     samples_path = "outputs/sample_queries.json"
     samples = []
     if os.path.exists(samples_path):
@@ -143,4 +138,4 @@ if __name__ == "__main__":
     with open(samples_path, "w") as f:
         json.dump(samples, f, indent=2)
     
-    print(f"\nLogged to {log_path} and appended to {samples_path}")
+    print(f"\nLogged to {samples_path}")

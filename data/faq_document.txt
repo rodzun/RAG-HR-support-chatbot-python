@@ -1,0 +1,90 @@
+HR SaaS Company FAQ Document
+
+Section 1: Company Policies
+
+1. Vacation Policy
+Employees are entitled to 15 paid vacation days per year, accruing at a rate of 1.25 days per month after the probation period of 3 months. Vacation requests must be submitted via the HR portal at least 2 weeks in advance to allow for proper scheduling and team coverage. Unused vacation days can be carried over up to 5 days into the next calendar year, but any excess will be forfeited unless approved by HR for exceptional circumstances such as medical leave. For employees in managerial positions or with over 5 years of tenure, additional vacation days may be granted, up to a total of 20 days annually. It is important to note that vacation time cannot be cashed out except upon termination, where applicable laws permit. During peak business periods, such as end-of-quarter, vacation approvals may be limited to ensure operational continuity. Employees are encouraged to plan vacations in coordination with their teams to minimize disruptions.
+
+2. Sick Leave
+Sick leave is provided as 10 days per year, non-accruing, and can be used for personal illness, medical appointments, or caring for immediate family members. Employees must notify their direct supervisor by 9 AM on the day of absence via email or the HR app, providing as much notice as possible. For absences longer than 3 consecutive days, a medical certification from a licensed healthcare provider may be required to validate the leave. Sick leave balances are reset annually on January 1st, and unused days do not carry over or pay out. In cases of chronic illness or extended recovery, employees may qualify for short-term disability benefits after exhausting sick leave. The company promotes a healthy work environment and offers flu shots and wellness programs to reduce sick days. Misuse of sick leave, such as patterns of absenteeism on Mondays or Fridays, may lead to disciplinary action.
+
+3. Remote Work Policy
+Our company supports a hybrid remote work model to promote work-life balance and productivity. Eligible employees can work remotely up to 3 days per week, subject to approval from their manager based on role suitability and performance. Remote workers must maintain a dedicated, distraction-free workspace with reliable high-speed internet (minimum 50 Mbps) and adhere to core working hours from 10 AM to 4 PM in their local time zone to facilitate collaboration. Essential tools include Slack for instant messaging, Zoom for video calls, and the company's VPN for secure access to internal systems. Employees are responsible for ergonomic setups to prevent injuries, and the company provides a one-time stipend of $500 for home office equipment. Regular check-ins and performance metrics ensure accountability. Remote work is not permitted during onboarding or for roles requiring on-site presence, such as IT support. Violations, like working from unapproved locations, may revoke remote privileges.
+
+4. Code of Conduct
+All employees, contractors, and partners must uphold the highest standards of integrity, respect, and professionalism in all interactions. This includes prohibiting any form of harassment, discrimination, bullying, or retaliation based on race, gender, age, religion, sexual orientation, disability, or other protected characteristics. Unethical behavior, such as conflicts of interest, bribery, or misuse of company resources, will result in immediate investigation and potential disciplinary action, up to and including termination. Reports of violations can be made anonymously via the HR hotline or online portal, with protections against retaliation. Annual training on the code is mandatory, and compliance is audited regularly. The code extends to social media and external representations of the company, where employees must avoid disparaging remarks or sharing confidential information. Breaches may also lead to legal consequences if they violate laws like anti-corruption regulations.
+
+Section 2: Procedures
+
+5. Onboarding Process
+The onboarding process begins with the acceptance of an offer letter, followed by pre-employment steps including background checks, reference verification, and signing of NDAs and employment agreements. On Day 1, new hires attend a virtual or in-person orientation session covering company history, values, and key contacts. This is followed by IT setup, including email, software access, and hardware distribution if needed. Within the first week, employees complete mandatory training modules on the Learning Management System (LMS), such as compliance, security awareness, and product overviews. HR assigns a buddy mentor for the first 30 days to assist with questions and integration. Performance goals are set in the first month via one-on-one meetings with managers. Feedback surveys are sent at 30, 60, and 90 days to improve the process. For international hires, additional steps include visa processing and cultural orientation.
+
+6. Performance Reviews
+Performance reviews are conducted bi-annually in June and December to assess achievements, provide feedback, and set future goals. Employees prepare self-assessments highlighting accomplishments, challenges, and development needs, using the Objectives and Key Results (OKR) framework. Managers then provide ratings on a 1-5 scale across competencies like teamwork, innovation, and results orientation, supported by specific examples. Discussions focus on strengths, areas for improvement, and career growth opportunities, such as training or promotions. Compensation adjustments, bonuses, or promotions are considered based on review outcomes and business performance. The process is documented in the HR system for transparency. Employees can appeal ratings if they disagree, with HR mediation. High performers may be nominated for leadership programs.
+
+7. Expense Reimbursement
+Employees can submit business-related expenses via the mobile app or web portal within 30 days of incurrence, attaching digital receipts for verification. Approved categories include travel (flights, hotels, mileage at $0.58/mile), meals (up to $50 per day with alcohol limits), conference fees, and software subscriptions. Reimbursements are processed in the next payroll cycle, typically bi-weekly, via direct deposit. Managers approve submissions, and finance audits for compliance with tax laws. International expenses require currency conversion and VAT documentation. Common denials include personal items or lack of receipts. Training on expense policies is provided annually to prevent errors.
+
+8. Termination Procedure
+For voluntary terminations, employees must provide at least 2 weeks' written notice to their manager and HR, allowing for knowledge transfer and exit processes. Involuntary terminations follow a progressive discipline policy, starting with verbal warnings, written warnings, performance improvement plans (PIPs), and finally termination if issues persist. Exit interviews are mandatory to gather feedback on company improvements. Final paychecks include accrued vacation pay, unused benefits, and deductions for any outstanding items like equipment. COBRA health coverage options are provided for US employees. References are given neutrally upon request. Severance may be offered in certain cases, based on tenure and circumstances.
+
+Section 3: Software Features
+
+9. Payroll Module
+The payroll module automates salary calculations, including base pay, bonuses, commissions, and overtime, while handling tax deductions for federal, state, and local taxes. It supports multiple currencies for global teams and integrates with major banks for direct deposits. Payroll runs bi-weekly, with payslips available in the employee dashboard for download and historical viewing. Features include year-end tax forms (W-2/1099), garnishment processing, and compliance with labor laws like FLSA. Custom reports track labor costs by department.
+
+10. Time Tracking
+Employees log hours via the mobile or web app, with features for project allocation, break tracking, and overtime alerts. Integration with Google Calendar or Outlook syncs schedules. Managers approve timesheets weekly, with automated reminders. Analytics highlight productivity trends and flag anomalies like excessive overtime.
+
+11. Benefits Administration
+Manage enrollments in health insurance, dental, vision, 401k matching (up to 5%), and flexible spending accounts. Open enrollment occurs annually in November, or during qualifying life events like marriage. Track contributions, claims, and balances through the portal. Wellness perks include gym reimbursements up to $300/year.
+
+12. Recruitment Tools
+Post jobs on internal and external boards, screen resumes with AI keyword matching, and schedule interviews via integrated calendars. The Applicant Tracking System (ATS) supports custom workflows, diversity metrics, and automated rejection emails. Reporting includes time-to-hire and source effectiveness.
+
+13. Reporting and Analytics
+Generate customizable reports on key HR metrics like employee turnover rates, engagement scores from surveys, diversity statistics, and absenteeism trends. Interactive dashboards provide real-time insights with visualizations like charts and heatmaps. Data can be exported to CSV, PDF, or integrated with BI tools like Tableau.
+
+Section 4: Troubleshooting
+
+14. Forgot Password
+Use the 'Reset Password' link on the login page, enter your registered email, and follow the link sent to reset. If no email arrives, check spam or contact support@hrsaas.com. Multi-factor authentication (MFA) may require additional verification.
+
+15. Integration Errors
+For API integration failures with tools like Slack or Salesforce, verify API keys in the settings menu. Common fixes include regenerating tokens, checking rate limits, and restarting the service. Logs are available for debugging.
+
+16. Mobile App Issues
+Ensure the app is updated to the latest version from app stores. For crashes, clear cache, restart device, or reinstall. Report bugs via in-app feedback with screenshots. Offline mode supports basic functions like time logging.
+
+Section 5: Compliance and Legal
+
+17. Data Privacy
+We comply with GDPR, CCPA, and other global privacy laws. Employee data is encrypted at rest and in transit, with role-based access controls. Consent is required for data sharing with third parties, and data breaches are reported within 72 hours.
+
+18. Equal Opportunity
+Hiring, promotions, and compensation are based solely on merit, skills, and performance. No discrimination is tolerated, with annual EEO training mandatory. Affirmative action plans promote diversity in underrepresented groups.
+
+19. Whistleblower Protection
+Employees reporting misconduct in good faith are protected from retaliation. Investigations are conducted confidentially by independent parties, with outcomes shared as appropriate.
+
+Section 6: Additional Resources
+
+20. Training Programs
+Access the LMS for over 100 courses on leadership, technical skills, diversity, and compliance. Certifications like SHRM or PMP are reimbursed up to $500 per year upon completion.
+
+21. Employee Assistance Program (EAP)
+Provides free, confidential counseling for mental health, financial advice, legal issues, and work-life challenges. Access via phone, app, or in-person sessions.
+
+22. Company Events
+Quarterly team-building activities, holiday parties, and an annual company retreat foster culture. Participation is voluntary but encouraged, with budgets for virtual options.
+
+23. Salary Structure
+Competitive salary bands are based on role, experience, location, and market data from sources like Radford. Annual reviews adjust for cost-of-living and merit increases averaging 3-5%.
+
+24. Maternity/Paternity Leave
+Primary caregivers receive 12 weeks fully paid leave, extendable unpaid under FMLA. Secondary caregivers get 4 weeks. Support includes lactation rooms and flexible return-to-work options.
+
+25. Diversity Initiatives
+Employee Resource Groups (ERGs) for women, LGBTQ+, minorities, and veterans meet monthly. Annual inclusion surveys measure progress, with goals for 40% diverse hires.
+
+This document is updated quarterly to reflect changes in policies or laws. Last update: November 2023. For any questions not covered, contact HR at hr@company.com or schedule a consultation via the portal. We value your feedback to improve this resource.

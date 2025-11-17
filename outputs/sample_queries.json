@@ -1,0 +1,55 @@
+[
+  {
+    "user_question": "How to request vacation?",
+    "system_answer": "To request vacation, employees must submit their vacation requests via the HR portal at least 2 weeks in advance to allow for proper scheduling and team coverage.",
+    "chunks_related": [
+      "1. Vacation Policy",
+      "approved by HR for exceptional circumstances such as medical leave. For employees in managerial positions or with over 5 years of tenure, additional vacation days may be granted, up to a total of 20 days annually. It is important to note that vacation time cannot be cashed out except upon termination, where applicable laws permit. During peak business periods, such as end-of-quarter, vacation approvals may be limited to ensure operational continuity. Employees are encouraged to plan vacations",
+      "Employees are entitled to 15 paid vacation days per year, accruing at a rate of 1.25 days per month after the probation period of 3 months. Vacation requests must be submitted via the HR portal at least 2 weeks in advance to allow for proper scheduling and team coverage. Unused vacation days can be carried over up to 5 days into the next calendar year, but any excess will be forfeited unless approved by HR for exceptional circumstances such as medical leave. For employees in managerial",
+      "Sick leave is provided as 10 days per year, non-accruing, and can be used for personal illness, medical appointments, or caring for immediate family members. Employees must notify their direct supervisor by 9 AM on the day of absence via email or the HR app, providing as much notice as possible. For absences longer than 3 consecutive days, a medical certification from a licensed healthcare provider may be required to validate the leave. Sick leave balances are reset annually on January 1st, and",
+      "2. Sick Leave"
+    ]
+  },
+  {
+    "user_question": "How to request vacation?",
+    "system_answer": "To request vacation, employees must submit their vacation requests via the HR portal at least 2 weeks in advance to allow for proper scheduling and team coverage.",
+    "chunks_related": [
+      "1. Vacation Policy",
+      "approved by HR for exceptional circumstances such as medical leave. For employees in managerial positions or with over 5 years of tenure, additional vacation days may be granted, up to a total of 20 days annually. It is important to note that vacation time cannot be cashed out except upon termination, where applicable laws permit. During peak business periods, such as end-of-quarter, vacation approvals may be limited to ensure operational continuity. Employees are encouraged to plan vacations",
+      "Employees are entitled to 15 paid vacation days per year, accruing at a rate of 1.25 days per month after the probation period of 3 months. Vacation requests must be submitted via the HR portal at least 2 weeks in advance to allow for proper scheduling and team coverage. Unused vacation days can be carried over up to 5 days into the next calendar year, but any excess will be forfeited unless approved by HR for exceptional circumstances such as medical leave. For employees in managerial",
+      "Sick leave is provided as 10 days per year, non-accruing, and can be used for personal illness, medical appointments, or caring for immediate family members. Employees must notify their direct supervisor by 9 AM on the day of absence via email or the HR app, providing as much notice as possible. For absences longer than 3 consecutive days, a medical certification from a licensed healthcare provider may be required to validate the leave. Sick leave balances are reset annually on January 1st, and",
+      "2. Sick Leave"
+    ],
+    "score": "9",
+    "reason": "The system answer is highly relevant to the user question about how to request vacation. It accurately states the requirement to submit vacation requests via the HR portal at least 2 weeks in advance, which aligns with the information provided in the chunks. The answer is complete in addressing the process for requesting vacation, although it could have briefly mentioned the accrual of vacation days or the potential limitations during peak business periods for a more comprehensive response. Overall, it effectively conveys the necessary steps and aligns well with the provided chunks."
+  },
+  {
+    "user_question": "How promotions work?",
+    "system_answer": "Promotions are considered based on performance review outcomes and overall business performance. The review process includes discussions about strengths, areas for improvement, and career growth opportunities, which may involve training or other development initiatives. High performers may be nominated for leadership programs, which can also influence promotion decisions. Additionally, the entire process is documented in the HR system for transparency, and employees have the option to appeal their ratings if they disagree.",
+    "chunks_related": [
+      "supported by specific examples. Discussions focus on strengths, areas for improvement, and career growth opportunities, such as training or promotions. Compensation adjustments, bonuses, or promotions are considered based on review outcomes and business performance. The process is documented in the HR system for transparency. Employees can appeal ratings if they disagree, with HR mediation. High performers may be nominated for leadership programs.",
+      "5. Onboarding Process",
+      "22. Company Events\nQuarterly team-building activities, holiday parties, and an annual company retreat foster culture. Participation is voluntary but encouraged, with budgets for virtual options.\n\n23. Salary Structure\nCompetitive salary bands are based on role, experience, location, and market data from sources like Radford. Annual reviews adjust for cost-of-living and merit increases averaging 3-5%.",
+      "6. Performance Reviews",
+      "distribution if needed. Within the first week, employees complete mandatory training modules on the Learning Management System (LMS), such as compliance, security awareness, and product overviews. HR assigns a buddy mentor for the first 30 days to assist with questions and integration. Performance goals are set in the first month via one-on-one meetings with managers. Feedback surveys are sent at 30, 60, and 90 days to improve the process. For international hires, additional steps include visa"
+    ]
+  },
+  {
+    "user_question": "How promotions work?",
+    "system_answer": "Promotions are considered based on performance review outcomes and overall business performance. The process involves discussions that focus on an employee's strengths, areas for improvement, and career growth opportunities, including training or promotions. High performers may be nominated for leadership programs, which can also influence promotion decisions. Additionally, the entire process is documented in the HR system for transparency, and employees have the option to appeal their ratings if they disagree, with HR mediation available.",
+    "chunks_related": [
+      "supported by specific examples. Discussions focus on strengths, areas for improvement, and career growth opportunities, such as training or promotions. Compensation adjustments, bonuses, or promotions are considered based on review outcomes and business performance. The process is documented in the HR system for transparency. Employees can appeal ratings if they disagree, with HR mediation. High performers may be nominated for leadership programs.",
+      "5. Onboarding Process",
+      "22. Company Events\nQuarterly team-building activities, holiday parties, and an annual company retreat foster culture. Participation is voluntary but encouraged, with budgets for virtual options.\n\n23. Salary Structure\nCompetitive salary bands are based on role, experience, location, and market data from sources like Radford. Annual reviews adjust for cost-of-living and merit increases averaging 3-5%.",
+      "6. Performance Reviews",
+      "distribution if needed. Within the first week, employees complete mandatory training modules on the Learning Management System (LMS), such as compliance, security awareness, and product overviews. HR assigns a buddy mentor for the first 30 days to assist with questions and integration. Performance goals are set in the first month via one-on-one meetings with managers. Feedback surveys are sent at 30, 60, and 90 days to improve the process. For international hires, additional steps include visa"
+    ],
+    "score": "8",
+    "reason": "The system answer provides a relevant overview of how promotions work, touching on key aspects such as performance reviews, discussions about strengths and areas for improvement, and the documentation process in the HR system. It accurately reflects the chunks provided, particularly regarding the focus on performance outcomes and the option for employees to appeal ratings. However, while it mentions high performers being nominated for leadership programs, it could have included more specific examples or details about the promotion process itself, such as criteria for promotions or how often they occur. Overall, the answer is comprehensive and relevant but could benefit from additional detail to achieve a perfect score."
+  },
+  {
+    "user_question": "How to make coffee?",
+    "system_answer": "I'm sorry, but I don't have the information needed to answer that question.",
+    "chunks_related": []
+  }
+]

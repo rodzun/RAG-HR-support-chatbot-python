@@ -1,0 +1,7 @@
+langchain==1.0.5
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+python-dotenv
+pytest
